@@ -63,13 +63,13 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt engineering is the process of designing and crafting inputs, known as "prompts," to effectively interact with AI models, particularly those based on natural language processing (NLP), like GPT. 
+1. Prompt engineering is the process of designing and crafting inputs, known as "prompts," to effectively interact with AI models, particularly those based on natural language processing (NLP), like GPT. 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Vague
+1. Vague
   Tell me about Africa.
-Improvement
+2 Improvement
   How many countries are in Africa.
 
-Importance
+3. Importance
   It gives you a specific information.
